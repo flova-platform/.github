@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://flova.ir/logo/flova-icon-text-white-@2x.png" alt="Flova" width="220" />
+  <img src="https://flova.ir/logo/flova-icon-text-@2x.png" alt="Flova" width="220" />
 </p>
 
 <p align="center">
